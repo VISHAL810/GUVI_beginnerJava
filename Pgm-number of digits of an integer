@@ -7,7 +7,7 @@ class Javapgm {
         System.out.print("Enter a Number:");
         Scanner get = new Scanner(System.in);
         a = get.nextInt();
-        while(n>0)
+        while(a>0)
         {
             a=a/10;
             b++;
