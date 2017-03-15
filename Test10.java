@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-class Javapgm {
+class Test10 {
     public static void main(String args[])
     {   
         int a, b=0;
