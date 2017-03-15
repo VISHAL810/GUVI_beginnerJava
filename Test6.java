@@ -1,7 +1,7 @@
 import java.util.Scanner;
 		 
 		 
-		class Test1
+		class Test6
 		{
 		    public static void main(String[] argus)
 		    {
