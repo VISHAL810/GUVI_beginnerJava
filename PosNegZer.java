@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Test1
+class PosNegZer
 {
 	
 	public static void main(String[] args) {
